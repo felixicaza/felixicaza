@@ -17,7 +17,7 @@ Web Frontend and WordPress Developer with over 3 years of experience. I speciali
 ## 👀 Take a look to my stats and technologies
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixicaza&theme=radical&border=7F3FBF&background=0D1117" alt="Felix Icaza's GitHub streak">
+  <img src="https://streak-stats.vercel.app/?user=felixicaza&theme=radical&border=7F3FBF&background=0D1117" alt="Felix Icaza's GitHub streak">
 </p>
 
 <p align="center">
